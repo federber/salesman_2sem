@@ -1,0 +1,7 @@
+# Created by pytest automatically.
+*.log
+*.png
+.pytest_cache/
+*.DS_Store
+*.idea/
+__pycache__/
